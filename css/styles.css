@@ -19,7 +19,7 @@ body{
     background-color: black;
 }
 
-.container-fluid2{
+.po{
     background-color: rgba(21, 126, 26, 0);
     color: rgb(0, 0, 0);
     background-size: cover;
@@ -31,7 +31,7 @@ body{
 .otro{
     background-color: rgba(173, 117, 117, 0);
     color: rgb(0, 0, 0);
-    background-size: cover;
+  
 }
 .ola{
     background-color: rgba(114, 16, 16, 0);
@@ -52,6 +52,14 @@ body{
     
     color: rgb(0, 0, 0);
     background-size: cover;
+}
+
+.lo {
+    height: 50rem;
+}
+
+.popo{
+    color: rgb(0, 0, 0);
 }
 
 
